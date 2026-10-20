@@ -8,3 +8,12 @@ enum Color {
 }
 
 let favoriteColor: Color = Color.Red;
+
+let dynamicValue: any;
+
+dynamicValue = 456;
+dynamicValue = "dynamicValue";
+
+age = "ben";
+
+let height: number = 180;
