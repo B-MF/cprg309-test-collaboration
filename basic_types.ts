@@ -17,3 +17,5 @@ dynamicValue = "dynamicValue";
 age = "ben";
 
 let height: number = 180;
+
+let name = "Calgary";
