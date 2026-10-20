@@ -18,4 +18,6 @@ age = "ben";
 
 let height: number = 180;
 
-let name = "Calgary";
+let city = "Calgary";
+
+let isLogged: boolean = false;
